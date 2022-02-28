@@ -1,2 +1,2 @@
 # Flight
-this is a game that a object vehice flys in space.
+this is a game that a object vehice flys in the sky.
